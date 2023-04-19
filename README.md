@@ -1,10 +1,10 @@
 INSTALLATION INSTRUCTIONS
-	<p>Code Repository: <a href="https://github.com/harshitethic/whatsapp-turbo-gpt">https://github.com/harshitethic/whatsapp-turbo-gpt</a></p>
+	<p>Code Repository: <a href="https://github.com/animex7v/whatsapp-turbo-gpt">https://github.com/animex7v/whatsapp-turbo-gpt</a></p>
   <h2>Contact Information:</h2>
 <ul>
-	<li>Name: Harshit Sharma</li>
+	<li>Name: amine</li>
 	<li>Github Username: <a href="https://github.com/harshitethic">https://github.com/harshitethic</a></li>
-	<li>Email: harshitsharma.ethic@gmail.com</li>
+	<li>Email: otacku.bot.v7@gmail.com</li>
 	<li>Youtube Video for installation: <a href="https://www.youtube.com/watch?v=rBvVHB2fVoQ">https://www.youtube.com/watch?v=rBvVHB2fVoQ</a></li>
 	<li>Youtube Channel: <a href="https://www.amine7x.blogspot.com">https://www.youtube.com/@harshitethic</a></li>
 	<li>Telegram Channel: <a href="https://t.me/harshitethicchannel">https://t.me/harshitethicchannel</a></li>
@@ -17,7 +17,7 @@ INSTALLATION INSTRUCTIONS
   <ul>
     <li>
       <p>Clone the code repository from Github using the following command:</p>
-      <pre><code>$ git clone https://github.com/harshitethic/whatsapp-turbo-gpt</code></pre>
+      <pre><code>$ git clone https://github.com/animex7v/whatsapp-turbo-gpt</code></pre>
     </li>
     <li>
       <p>Navigate to the root directory of the code repository:</p>
